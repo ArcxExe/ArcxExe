@@ -1,7 +1,7 @@
 ## Hi there! I'm Roman 👋
 
 - 💻 Tech stack: Postgresql , Java , Spring , Git , Postman , Linux , 
-- 🌱 I’m currently learning: Java with Spring , Soft-Skills , CS  
+- 🌱 I’m currently learning: Java , Spring , Soft-Skills , CS  
 - 😄 Fun fact: I love NeoVim , Hyprland ❤️
 
 <!--
