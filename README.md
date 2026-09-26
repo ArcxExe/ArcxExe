@@ -1,8 +1,8 @@
 ## Hi there! I'm Roman 👋
 
-- 💻 Tech stack: Postgresql , Java , Spring , Git , Postman , Linux , 
+- 💻 Tech stack: Postgresql , Java , Spring , Git , Linux , 
 - 🌱 I’m currently learning: Java , Spring , Soft-Skills , CS  
-- 😄 Fun fact: I love NeoVim , Hyprland ❤️
+- ⚡ Fact: I love NeoVim , Umbriel , ~~Hyprland~~ ❤️
 
 <!--
 **ArcxExe/ArcxExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
